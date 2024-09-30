@@ -45,8 +45,8 @@ main {
 main h1 {
 	font-size: 150%;
 	padding: .3em 0;
-	border-top: 3px solid #fffded;
-	border-bottom: 3px solid #fffded; 
+	border-top: 3px solid #800000;
+	border-bottom: 3px solid #800000; 
 }
 main h2 {
 	color: var(--global-color-1);
